@@ -1,2 +1,2 @@
 console.log(111);
-console
+console.log(222);
